@@ -1,0 +1,129 @@
+html {
+  min-width: 1000px;
+}
+body {
+  font-family: sans-serif;
+  margin: 0 auto;
+}
+/*    INICIO DA CONFIGURAÇAO DO HEADER    */
+
+#header {
+  padding: 0px 0px 0px 0px;
+}
+#bar {
+  padding: 5px 5px 5px 5px;
+  background: #ecf0f1;
+  font-family: "Myriad Pro";
+  color: #7f8c8d;
+  font-weight: thin;
+  text-align: center;
+  margin: 0px 0px 30px 0px;
+}
+#header #logo {
+  background: #29BDCA;
+  max-width: 40px;
+  font-size: 40px;
+  font-family: "Nexa Bold", "Ubuntu, sans-serif";
+  color: #ffffff;
+  padding: 6px 5px 0px 6px;
+  margin: 0px 10px 0px 30px;
+  float: left;
+}
+#header h1 {
+  font-size: 40px;
+  font-family: "Nexa Bold", "Ubuntu, sans-serif";
+  color: #7f8c8d;
+  margin: 35px 0px 0px 0px;
+  padding: 4px 0px 0px 0px;
+}
+#header ul {
+  float: right;
+  margin: -30px 0px 0px 0px;
+  padding: 0;
+}
+#header ul li {
+  display: inline;
+  margin-left: 0px;
+  font-family: "Myriad Pro", sans-serif;
+  padding-right: 20px;
+}
+#header ul li a {
+  color: black;
+  text-decoration: none;
+  font-family: "Myriad Pro", sans-serif;
+  padding: 10px 10px;
+}
+#header ul li a:hover {
+  background: #29BDCA;
+  color: #ffffff;
+  font-family: "Nexa Bold", sans-serif;
+  padding: 10px 10px;
+}
+#header hr {
+  margin: 36px 0px 0px;
+  background: #29BDCA;
+  padding: 5px 0px 0px 0px;
+}
+/*    FIM DA CONFIGURAÇAO DO HEADER    */
+
+#container {} #container #slider {
+  margin: -1px 0px 0px 0px;
+  padding: 200px;
+  background: #2c3e50;
+  text-align: center;
+}
+#container #slider span {
+  font-family: "Myriad pro";
+  font-weight: bold;
+  color: #fff;
+  font-size: 50px;
+}
+hr {
+  margin: 0px 0px 0px 0px;
+  background: #29BDCA;
+  padding: 5px 0px 0px 0px;
+}
+#container .box {
+  margin: -17px 0px -17px 0px;
+  padding: 0px;
+  background-color: #ecf0f1;
+  text-align: center;
+  font-weight: bold;
+}
+#container .box p {
+  padding: 120px 60px;
+  color: #34495e;
+}
+#container .box1 {
+  margin: -17px 0px -18px 0px;
+  padding: 0px 0px -1px 0px;
+  background-color: #29BDCA;
+  text-align: center;
+  font-weight: bold;
+}
+#container .box1 p {
+  padding: 120px 60px;
+  color: #ecf0f1;
+}
+.widget {
+  font-family: "Myriad pro";
+  padding: 100px 30px 100px 10px;
+  background: #34495e;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+.cc {
+  padding: 30px 10px;
+  text-align: center;
+  font-family: "Ubuntu";
+  font-size: 13px;
+  font-weight: bold;
+  color: #fff;
+  background: #2c3e50;
+}
+.cc a {
+  text-decoration: none;
+  color: #ecf0f1;
+}
